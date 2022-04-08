@@ -62,7 +62,7 @@ namespace Practico2
             {
                 Console.WriteLine(numero);
             }
-
+             
             /*K Mostrar los numeros de forma ascendente*/
             List<int> colNumerosAscendente = numerosAleatorios.OrderBy(numero => numero).ToList();
             foreach (int numero in colNumerosAscendente)
