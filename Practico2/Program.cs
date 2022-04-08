@@ -61,6 +61,7 @@ namespace Practico2
             foreach (int numero in colNumerosDescendiente)
             {
                 Console.WriteLine(numero);
+                /*Coso par aprobar el feacture*/
             }
              
             /*K Mostrar los numeros de forma ascendente*/
